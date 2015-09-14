@@ -1,0 +1,125 @@
+.white-text {
+	color: #FFF;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.thumb {
+    position: relative;
+
+}
+
+.image-caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+.top-nav-font {
+	font-size: 10px;
+}
+
+.navbar-brand {
+	font-size: 10px;
+}
+
+.center-div {
+	margin-left: 40%;
+}
+
+.form-group {
+	position: relative;
+}
+
+.form-group .fa-search {
+	position: absolute;
+	font-size: 12px;
+	top: 16px;
+	right: 40px;
+}
+
+.form-control-1 {
+	display: block;
+	width: 95%;
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	background-image: none;
+	border: none;
+	border-radius: none;
+	border-bottom: 1px solid #ccc;
+
+}
+
+.img-responsive {
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+.btn-link {
+	color: #8e8e8e;
+	transition: all 0.3s ease 0s;
+}
+
+.btn-group>.btn {
+	float: right;
+	position: relative;
+	left: -50%;
+	text-align: left;
+}
+
+.btn-link:hover {
+	color: #8e8e8e;
+	text-decoration: none;
+	opacity: 0.75;
+}
+
+.maven-text {
+	font-family: 'Maven Pro', sans-serif;
+}
+
+hr {
+	border-color: #e7e7e7;
+}
+
+footer {
+	background-color: #666;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.pad-up {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.btn-default {
+	border: none;
+	background-color: #666;
+	color: #FFF;
+	transition: all 0.3s ease 0s;
+}
+
+.btn-default:hover {
+	background-color: #666;
+	text-decoration: none;
+	color: #ccc;
+}
+
+.footer-nav > li > a {
+	color:#FFF;
+	transition: all 0.3s ease 0s;
+}
+
+.footer-nav > li > a:hover,
+.footer-nav > li > a:focus {
+  color: #7a7a7a;
+  background-color: transparent;
+}
